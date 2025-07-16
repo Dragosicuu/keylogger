@@ -7,4 +7,4 @@ How to use:
 
 - If you want the file to run in the background without any visible window, change the file extension from .py to .pyw  And you also got an .exe file.
 
-- And you also got an .exe file.
+- And you can make your .py file an .exe if you use 'auto-py-to-exe' or other tools.
