@@ -1,0 +1,2 @@
+pynput
+discord_webhook
